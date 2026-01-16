@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="VotingSystem.RegistrationService/VotingSystem.RegistrationService.csproj" />
+  <Project Path="VotingSystem.VotingSevice/VotingSystem.VotingSevice.csproj" Id="1f2ddeca-d03d-4236-b9a7-922eac6bae23" />
+  <Project Path="VotingUi/VotingUi.csproj" Id="c24214eb-41d3-4f12-9b54-1fe1c649f37f" />
+  <Project Path="VotingWebApp/VotingWebApp.csproj" Id="89226068-efe8-44d7-b8c5-0fcb12986ba0" />
+</Solution>
